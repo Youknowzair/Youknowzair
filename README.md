@@ -41,8 +41,7 @@ Despite over 14.6 crore households connected under the Jal Jeevan Mission, 1.5�
 40% of water sources are contaminated, and 30% of settlements face seasonal shortages. My goal is to use
 AI-driven insights to improve water accessibility and sustainability in underserved communities.
 
----
-
+```
 ## ▶️ Code Cell [Skills]
 
 ```python
