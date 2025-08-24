@@ -1,51 +1,138 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-<a href="https://twitter.com/thesyeduzair01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesyeduzair01" height="30" width="40" /></a>
-<a href="https://instagram.com/_.youknowzair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.youknowzair" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCVjJl0f_vF-OLCTtqzYL_Xg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucvjjl0f_vf-olcttqzyl_xg" height="30" width="40" /></a>
-</div>
-<div id="badges" align="center">
-<h1></h1>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<p align="center">
+  🟨🟦 Every Commit Tells A Story Of Growth. 🟦🟨
+</p>
 
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33px"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Colab-Portfolio-orange?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Engineer-blueviolet?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Researcher-green?style=for-the-badge&logo=pytorch" />
+</p>
+
+---
+
+## 📑From Code to Commit
+
+```
+GitHub    Commit    Branch    Push    Pull    Merge    Status    Log
+```
+
+---
+
+## ▶️ Code Cell [About Me]
+
+```python
+# Importing dependencies
+import developer_profile as dp
+
+dp.about(
+         ...
+)
+```
+
+### ✅ Output:
+```
+👋 Hi there, I'm Syed Uzair
+I’m an Information Technology undergraduate passionate about applying AI to solve real-world problems.
+I’m working on JalDrishti, a GIS-based AI project tackling critical water mapping and resource management
+issues at the hamlet level in rural India.
+
+Despite over 14.6 crore households connected under the Jal Jeevan Mission, 1.5–2 lakh hamlets remain unmapped,
+40% of water sources are contaminated, and 30% of settlements face seasonal shortages. My goal is to use
+AI-driven insights to improve water accessibility and sustainability in underserved communities.
+
+---
+
+## ▶️ Code Cell [Skills]
+
+```python
+dp.skills([
+    "Python 🐍",
+    ...
+])
+```
+
+### ✅ Output (Training Bars):
+```
+Python 🐍|| TensorFlow 🔥|| PyTorch ⚡|| Scikit-learn 📊|| NLP 🤖 | Computer Vision 👁️ || SQL/NoSQL 💾
+
+```
+
+---
+
+## ▶️ Code Cell [Highlighted Projects]
+
+```python
+dp.projects([
+    {"VisaSentinel": "AI-powered Visa Screening with Blockchain NOC"},
+    {"JalDrishti: "AI-Driven GIS Water SDSS for Real-Time Hamlet-Level Resource Management & Equity "},
+    {"Energy Analyzer": "Pattern mining for household & industry energy savings"}
+])
+```
+
+### ✅ Output:
+```
+📌 VisaSentinel → Secure visa screening using AI + Blockchain
+📌 JalDrishti  → Water Mapping For Hamlet and Water Resource Management
+📌 Energy Analyzer → Detects energy-saving opportunities with ML
+```
+
+---
+
+## ▶️ Code Cell [Connect With Me]
+
+### 📫 Socials 👇
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-uzair-a31308256/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Uzairamansyed@Gmail.com)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youknowzair)
+
+
+---
+
+## 🚀 Final Cell [💼 Experience]
+
+```python
+print("Qtech Software Pvt Ltd: Quality Assurance Engineer")
+```
+
+### ✅ Output:
+```
+Qtech Software Pvt Ltd: Quality Assurance Engineer
+```
+### My Github Stats
+
+## 📊 GitHub Stats – Strong & Bold
+
+<div align="center">
+  <a href="https://github.com/Youknowzair">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Youknowzair&show_icons=true&theme=dark&count_private=true&hide_border=false&bg_color=0a0a0a&title_color=ff4500&icon_color=1e90ff" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Youknowzair&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-<h2></h2>
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently doing Diploma in Computer Engineering from GPM.
-
-- :telescope: I’m working as a Developer and contributing to frontend and backend for building Web & Android applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap:Woking on a new major project.
-
-<h3>
-________________________________________________________________________________________________________________________
-</h3>
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <a href="https://github.com/Youknowzair">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youknowzair&layout=compact&theme=dark&hide_border=false&bg_color=0a0a0a&title_color=ff6347" />
+  </a>
 </div>
 
-### :fire: My Stats :
+---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=youknowzair&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  
+  <!-- 👥 GitHub Followers Badge -->
+  <a href="https://github.com/Youknowzair?tab=followers">
+    <img src="https://img.shields.io/github/followers/Youknowzair?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youknowzair&layout=compact&theme=vision-friendly-dark)](https://github.com/youknowzair/github-readme-stats)
+  <!-- 👁️ Visitor Count Badge -->
+  <a href="https://github.com/Youknowzair">
+    <img src="https://komarev.com/ghpvc/?username=Youknowzair&style=for-the-badge&label=Profile+Views&color=brightgreen" alt="Profile Views" />
+  </a>
+
+</div>
+
+
+
+
