@@ -63,17 +63,19 @@ Python 🐍|| TensorFlow 🔥|| PyTorch ⚡|| Scikit-learn 📊|| NLP 🤖 | Com
 
 ```python
 dp.projects([
+    {"JalDrishti": "AI AI-Driven GIS Water SDSS for Real-Time Hamlet-Level Resource Management  "}
+    {"QGraph": "QGraph is an innovative educational platform designed to help computer science students master the Theory of Computation (TOC)"}
     {"VisaSentinel": "AI-powered Visa Screening with Blockchain NOC"},
-    {"JalDrishti: "AI-Driven GIS Water SDSS for Real-Time Hamlet-Level Resource Management & Equity "},
-    {"Energy Analyzer": "Pattern mining for household & industry energy savings"}
+ 
 ])
 ```
 
 ### ✅ Output:
 ```
-📌 VisaSentinel → Secure visa screening using AI + Blockchain
-📌 JalDrishti  → Water Mapping For Hamlet and Water Resource Management
-📌 Energy Analyzer → Detects energy-saving opportunities with ML
+📌 JalDrishti  → Water Mapping For Hamlet and Water Resource Management.
+📌 QGraph      → Empowering Students with Visualized Theory of Computation.
+📌 VisaSentinel → Secure visa screening using AI + Blockchain.
+
 ```
 
 ---
